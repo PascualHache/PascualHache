@@ -2,7 +2,7 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="(https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=790b7611veihazqyacofa8ezyldwni891u7tkppwwynna1vm&ep=v1_gifs_search&rid=giphy.gif&ct=g)" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=790b7611veihazqyacofa8ezyldwni891u7tkppwwynna1vm&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 
 **Main Stack**

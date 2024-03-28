@@ -1,4 +1,6 @@
-### Hello World 👋 It's [Hache!], 👋 Hi! Passionate about coding with a focus on JavaScript(React) and Web Performance. Skilled in team management and collaboration. Committed to delivering excellence and making a positive impact through technology. Let's connect and innovate together!
+### Hello World 👋 It's Hache! 
+
+I'm passionate about coding with a focus on JavaScript(React) and Web Performance. Skilled in team management and collaboration. Committed to delivering excellence and making a positive impact through technology. Let's connect and innovate together!
 
 <br/>
 
